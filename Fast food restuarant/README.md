@@ -10,4 +10,4 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and cool user interface.
 # 
-* Click here for live demo : [Burgatory](https://https://burgatoryfastfood.vercel.app)
+* Click here for live demo : [Burgatory](https://burgatoryfastfood.vercel.app)
