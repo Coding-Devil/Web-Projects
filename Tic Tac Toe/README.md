@@ -12,4 +12,4 @@ A Frontend game application for Web
 #
 * Deployed using Vercel.app
 
-Click here for live demo : [Tic-tac-toe](https://gokul-weather-app.vercel.app)
+Click here for live demo : [Tic-tac-toe](https://gokul-tictactoe-web.vercel.app/)
